@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Copy, Check, MessageCircle, Gamepad2 } from "lucide-react";
 import Particles from "./Particles";
 
-const SERVER_IP = "play.noxarismc.it";
+const SERVER_IP = "coming soon";
 const LOGO = "https://media.base44.com/images/public/user_6ac3b2c13b1b42aa33423c56/96f109554_e5a3c702b_NoxarisMC-profile-1000.png";
 const HERO_BG = "https://media.base44.com/images/public/6ac3b2cd1c34669978cf7ac9/c4812a255_generated_9899585d.jpg";
 
