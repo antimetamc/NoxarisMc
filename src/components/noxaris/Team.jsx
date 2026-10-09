@@ -25,6 +25,12 @@ const TEAM = [
     skin: "https://mc-heads.net/avatar/giuseppecard23",
     desc: "Co-dev del team. Lavora fianco a fianco su sistemi, sicurezza e miglioramenti continui del server.",
   },
+  {
+    name: "TheKing_lion",
+    role: "Builder",
+    skin: "https://mc-heads.net/avatar/TheKing_lion",
+    desc: "Il Builder del team. Costruzioni, spawn e ambientazioni che danno forma al mondo di NoxarisMc.",
+  },
 ];
 
 export default function Team() {
